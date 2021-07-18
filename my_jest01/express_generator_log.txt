@@ -1,0 +1,27 @@
+PS D:\work\develop\express\jest_practice01> express --view=ejs my_jest01       
+
+   create : my_jest01\
+   create : my_jest01\public\
+   create : my_jest01\public\javascripts\
+   create : my_jest01\public\images\     
+   create : my_jest01\public\stylesheets\
+   create : my_jest01\public\stylesheets\style.css
+   create : my_jest01\routes\
+   create : my_jest01\routes\index.js
+   create : my_jest01\routes\users.js
+   create : my_jest01\views\
+   create : my_jest01\views\error.ejs
+   create : my_jest01\views\index.ejs
+   create : my_jest01\app.js
+   create : my_jest01\package.json
+   create : my_jest01\bin\
+   create : my_jest01\bin\www
+
+   change directory:
+     > cd my_jest01
+
+   install dependencies:
+     > npm install
+
+   run the app:
+     > SET DEBUG=my-jest01:* & npm start
